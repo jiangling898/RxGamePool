@@ -1,0 +1,51 @@
+{
+    "bannerId": "adunit-f92fdc2b38b92a88",
+    "insertId": "adunit-d66127f30ff65f09",
+    "rewardId": "adunit-5934c0d5101a628c",
+    "iconId": "adunit-80429d212d890eaa",
+    "moreId": "adunit-b5eca2b9f2975739",
+    "iconStyle": {
+        "left": 30,
+        "top": 80,
+        "width": 375,
+        "isShow": false,
+        "isLeft": 1,
+        "fixed": true
+    },
+    "bannerStyle": {
+        "left": 200,
+        "top": 80,
+        "width": 375,
+        "isTop": 0,
+        "isShow": false,
+        "fixed": true
+    },
+    "nineStyle": {
+      "left": 80,
+      "top": 50,
+      "width": 375,
+      "isShow": false,
+      "isLeft": 0,
+      "fixed": true,
+       "close":true
+  },
+    "activeTimes": 0,
+    "actionTimes": 5,
+    "showAd": true,
+    "initAd":true,
+    "nomalInsert":true,
+    "insertIntervalTime": 100,
+    "showWzq": true,
+    "showEls": true,
+    "shareTitle": "快来和我一起玩原始进化动物园吧!",
+    "videoTopics": [
+        {
+            "title":"快来和我一起玩原始进化动物园吧",
+            "imageUrl":null
+        },
+        {
+            "title":"救救我吧,这关我过不去了",
+            "imageUrl":null
+        }
+    ]
+}
